@@ -4,7 +4,7 @@ Graduate student in Information Management at the University of Illinois Urbana-
 
 ## Featured Projects
 
-### [VeriStream AI](https://github.com/atharvasathaye/Cozad)
+### [VeriStream AI (Cozad Competition)](https://github.com/atharvasathaye/Cozad)
 Video verification platform for deepfake detection. Implements a FastAPI backend with HuggingFace models, multi-signal frame analysis, quality gating, and a Streamlit dashboard for risk report visualization.
 
 **Technologies**: Python, FastAPI, PyTorch, HuggingFace, OpenCV
@@ -29,10 +29,10 @@ Implementation of differential privacy on Chicago 311 service request data. Eval
 
 **Technologies**: Python, pandas, NumPy, Plotly
 
-### [Healthcare Billing Assistant](https://github.com/atharvasathaye/ABR_Healthcare_Client)
-Bilingual AI billing assistant with retrieval-augmented generation over insurance policy documentation. Features a FastAPI backend with OpenAI API integration, Azure deployment, and PII safety guardrails.
+### [Banking Competitive Benchmark](https://github.com/atharvasathaye/banking-benchmark)
+Competitive analysis dashboard benchmarking Truist digital banking against peer institutions using 598K CFPB consumer complaints and 2M app store ratings, featuring dynamic RICE framework backlog prioritization.
 
-**Technologies**: Python, FastAPI, OpenAI API, Azure
+**Technologies**: JavaScript, HTML5 Canvas, Node.js, REST API
 
 ## Technical Skills
 
@@ -41,5 +41,8 @@ Bilingual AI billing assistant with retrieval-augmented generation over insuranc
 - **Analytics & Web Tools**: Tableau, Power BI, PostgreSQL, FastAPI, Streamlit, Git
 - **Cloud Infrastructure**: Azure (Blob Storage, App Service), GitHub Pages
 
-## Author
-Atharva Sathaye
+## Connect
+
+- **LinkedIn**: [Atharva Sathaye](https://www.linkedin.com/in/atharvasathaye)
+- **Portfolio**: [atharvasathaye.github.io](https://atharvasathaye.github.io)
+- **Email**: [sathaye3@illinois.edu](mailto:sathaye3@illinois.edu)
